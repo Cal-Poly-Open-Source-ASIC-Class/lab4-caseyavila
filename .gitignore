@@ -1,4 +1,6 @@
 runs/
+gl/
+*.swp
 *.vcd
 *.fst
 *a.out

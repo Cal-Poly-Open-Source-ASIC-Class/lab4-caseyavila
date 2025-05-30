@@ -1,0 +1,63 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Fri May 30 04:01:46 2025
+[*]
+[dumpfile] "/home/asic/workspace/lab4-caseyavila/tests/tb_async_fifo/tb_async_fifo.vcd"
+[dumpfile_mtime] "Fri May 30 04:01:11 2025"
+[dumpfile_size] 134130
+[savefile] "/home/asic/workspace/lab4-caseyavila/waveform.gtkw"
+[timestart] 0
+[size] 1904 1039
+[pos] -1 -1
+*-16.199999 239300 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[markername] AA
+[markername] BB
+[markername] CC
+[markername] DD
+[markername] EE
+[markername] FF
+[markername] GG
+[markername] HH
+[markername] II
+[markername] JJ
+[markername] KK
+[markername] LL
+[markername] MM
+[markername] NN
+[markername] OO
+[markername] PP
+[markername] QQ
+[markername] RR
+[markername] SS
+[markername] TT
+[markername] UU
+[markername] VV
+[markername] WW
+[markername] XX
+[markername] YY
+[markername] ZZ
+[treeopen] tb_async_fifo.
+[sst_width] 276
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 303
+@28
+tb_async_fifo.afifo.w_clk
+tb_async_fifo.afifo.w_rst_n
+tb_async_fifo.afifo.w_en
+@22
+tb_async_fifo.afifo.w_data[31:0]
+@28
+tb_async_fifo.afifo.full
+@200
+-
+@28
+tb_async_fifo.afifo.r_clk
+tb_async_fifo.afifo.r_rst_n
+tb_async_fifo.afifo.r_en
+@22
+tb_async_fifo.afifo.r_data[31:0]
+@28
+tb_async_fifo.afifo.empty
+[pattern_trace] 1
+[pattern_trace] 0

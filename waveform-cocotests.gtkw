@@ -1,0 +1,63 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Fri May 30 16:01:55 2025
+[*]
+[dumpfile] "/home/asic/workspace/lab4-caseyavila/cocotests/test_template/dump.fst"
+[dumpfile_mtime] "Fri May 30 16:00:08 2025"
+[dumpfile_size] 1617
+[savefile] "/home/asic/workspace/lab4-caseyavila/waveform-cocotests.gtkw"
+[timestart] 0
+[size] 1904 1039
+[pos] -1 -1
+*-16.200001 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[markername] AA
+[markername] BB
+[markername] CC
+[markername] DD
+[markername] EE
+[markername] FF
+[markername] GG
+[markername] HH
+[markername] II
+[markername] JJ
+[markername] KK
+[markername] LL
+[markername] MM
+[markername] NN
+[markername] OO
+[markername] PP
+[markername] QQ
+[markername] RR
+[markername] SS
+[markername] TT
+[markername] UU
+[markername] VV
+[markername] WW
+[markername] XX
+[markername] YY
+[markername] ZZ
+[treeopen] async_fifo.
+[sst_width] 276
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 303
+@28
+async_fifo.w_clk
+async_fifo.w_rst_n
+async_fifo.w_en
+@22
+async_fifo.w_data[31:0]
+@28
+async_fifo.full
+@200
+-
+@28
+async_fifo.r_clk
+async_fifo.r_rst_n
+async_fifo.r_en
+@22
+async_fifo.r_data[31:0]
+@28
+async_fifo.empty
+[pattern_trace] 1
+[pattern_trace] 0
